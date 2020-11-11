@@ -1,105 +1,98 @@
-{\rtf1\ansi\ansicpg949\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+## GIT
 
-\f0\fs24 \cf0 ## GIT\
-\
-- git\'c0\'ba \'c6\'c4\'c0\'cf\'bf\'a1\'bc\'ad \'b9\'df\'bb\'fd\'c7\'d1 \'ba\'af\'b0\'e6\'bb\'e7\'c7\'d7\'c0\'bb \'c3\'df\'c0\'fb\'c7\'cf\'b4\'c2 \'bd\'c3\'bd\'ba\'c5\'db\
-- \'b5\'a5\'bd\'ba\'c5\'a9\'c5\'be\'bf\'a1 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'c5\'b3\'aa \'c5\'ac\'b6\'f3\'bf\'ec\'b5\'e5\'bf\'a1 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'c5\'b3\'aa\
-- \'c6\'c0\'bf\'f8\'b0\'a3\'c0\'c7 \'b0\'f8\'c0\'af \'b9\'d7 \'b0\'f8\'b5\'bf \'c0\'db\'be\'f7\'bf\'a1 \'bf\'eb\'c0\'cc\
-\
-Repositories\
-\
-: \'c0\'fa\'c0\'e5 \'c6\'fa\'b4\'f5\
-\
-Commits\
-\
-: \'c6\'c4\'c0\'cf \'ba\'af\'b0\'e6\'c0\'bb \'b1\'e2\'b7\'cf\
-\
-\'bf\'b9\'c0\'fc \'c0\'db\'be\'f7\'c0\'b8\'b7\'ce \'b5\'b9\'be\'c6\'b0\'a1\'b0\'ed \'bd\'cd\'c0\'bb \'b6\'a7 \'c5\'ab \'bf\'aa\'c7\'d2\'c0\'bb \'c7\'d4\
-\
-Branches\
-\
-: \'b3\'aa\'b9\'ab\'c0\'c7 \'b0\'a1\'c1\'f6\
-\
-\'bd\'c7\'c7\'e8\'c0\'fb\'c0\'ce \'c0\'db\'be\'f7\'c0\'bb \'c7\'cf\'b0\'ed \'bd\'cd\'c0\'bb \'b6\'a7 \'bb\'e7\'bf\'eb\
-\
-Git\'b0\'fa Github\
-\
-: Git\'c0\'ba \'ba\'af\'b0\'e6 \'bb\'e7\'c7\'d7 \'c3\'df\'c0\'fb \'bd\'c3\'bd\'ba\'c5\'db\
-\
-: Github\'b4\'c2 \'ba\'af\'b0\'e6 \'bb\'e7\'c7\'d7\'c0\'bb \'c0\'fa\'c0\'e5\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'c2 \'c5\'ac\'b6\'f3\'bf\'ec\'b5\'e5 \'bc\'ad\'ba\'f1\'bd\'ba\
-\
-- biitbucket\
-\
-\'ba\'af\'b0\'e6\'b0\'fa \'c3\'df\'b0\'a1\'b8\'a6 git\'bf\'a1\'bc\'ad \'b4\'d9 \'c7\'cf\'b0\'ed \'b1\'d7\'b0\'cd\'c0\'bb \'c5\'ac\'b6\'f3\'bf\'ec\'b5\'e5\'bf\'a1 \'c3\'df\'b0\'a1\'c7\'cf\'b4\'c2 \'bf\'aa\'c7\'d2\'c0\'cc github\
-\
-## **\'c0\'ce\'c5\'cd\'b3\'dd**\
-\
-\'c0\'ce\'c5\'cd\'b3\'dd\'c0\'ba\uc0\u160 1960\'b3\'e2\'b5\'b5\'bf\'a1\u160 \'c7\'d9\u160 \'c0\'fc\'c0\'ef\'bf\'a1\u160 \'b4\'eb\'c7\'d1\u160 \'b0\'f8\'c6\'f7\'b0\'a1\u160 \'c5\'a9\'b0\'d4\u160 \'b4\'de\'c7\'d1\'bd\'c3\'b1\'e2\'bf\'a1\u160 \'b8\'b8\'b5\'e9\'be\'ee\'c1\'b3\'b4\'d9.\
-\
-\'b4\'e7\'bd\'c3\uc0\u160 \'b9\'cc\'b1\'b9\'c0\'ba\u160 \'c6\'e6\'c5\'b8\'b0\'ef\'c0\'bb\u160 \'c0\'d2\'c0\'b8\'b8\'e9\u160 \'c5\'eb\'bd\'c5\u160 \'bd\'c3\'bd\'ba\'c5\'db\'c0\'bb\u160 \'b8\'f0\'b5\'ce\u160 \'c0\'d2\'b0\'d4\u160 \'b5\'ca\
-\
-- >\uc0\u160 \'c6\'e6\'c5\'b8\'b0\'ef\'c0\'bb\u160 \'c7\'d9\'c0\'b8\'b7\'ce\u160 \'b0\'f8\'b0\'dd\'c7\'cf\'b8\'e9\u160 \'bf\'ec\'b8\'ae\u160 \'b8\'c1\'c7\'d8\u160 (\'c5\'eb\'bd\'c5\u160 \'b8\'b6\'ba\'f1)\
-- >\uc0\u160 \'ba\'d0\'bb\'ea\
-\
-\'c0\'a4\uc0\u160 \'bc\'ad\'b9\'f6: index.html\u160 \'c6\'c4\'c0\'cf\'c0\'bb\u160 \'c0\'ce\'c5\'cd\'b3\'dd\'c0\'bb\u160 \'c5\'eb\'c7\'d8\u160 \'c0\'a5\'bc\'ad\'b9\'f6\'bf\'a1\u160 \'c0\'fc\'b4\'de\
-\
-\'c0\'a5\uc0\u160 \'ba\'ea\'b6\'f3\'bf\'ec\'c0\'fa:\u160 \'c6\'c4\'c0\'cf\'c0\'bb\u160 \'c7\'d8\'bc\'ae\'c7\'d8\u160 \'bb\'e7\'b6\'f7\'c0\'cc\u160 \'ba\'bc\u160 \'bc\'f6\u160 \'c0\'d6\'b4\'c2\u160 \'b9\'ae\'bc\'ad\'c0\'c7\u160 \'c7\'fc\'c5\'c2\'b7\'ce\u160 \'ba\'b8\'bf\'a9\'c1\'dc\
-\
-world wide web\
-\
-: www.\
-\
-\'c0\'ce\'c5\'cd\'b3\'dd\'c0\'ba \'be\'ee\'b6\'bb\'b0\'d4 \'b5\'bf\'c0\'db\'c7\'d2\'b1\'ee?\
-\
-Ip Address\
-\
-\'c7\'d1 \'c2\'ca\'bf\'a1\'bc\'ad \'b4\'d9\'b8\'a5 \'c2\'ca\'c0\'b8\'b7\'ce \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c0\'fc\'b4\'de\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad \'bb\'e7\'bf\'eb\
-\
-\'be\'c6\'c0\'cc\'c7\'c7\'b6\'f3\'b4\'c2 \'b1\'d4\'c4\'a2\'bf\'a1 \'b5\'fb\'b6\'f3\'bc\'ad \'b9\'de\'b4\'c2 \'bb\'e7\'b6\'f7\'b0\'fa \'ba\'b8\'b3\'bb\'b4\'c2 \'bb\'e7\'b6\'f7\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'c0\'fb\'b0\'ed\
-\
-\'b1\'d7\'b8\'ae\'b0\'ed \'bf\'ec\'b8\'ae\'b0\'a1 \'bf\'e4\'c3\'bb\'c7\'cf\'b4\'c2 \'c1\'a4\'ba\'b8\'bf\'a1 \'b4\'eb\'c7\'d1 \'b3\'bb\'bf\'eb\'b5\'e9\'c0\'bb \'c0\'db\'bc\'ba\
-\
-\'b3\'aa\'b4\'b5\'b0\'d4 \'b5\'c8 \'b4\'dc\'c0\'a7\'b8\'a6 \'c6\'d0\'c5\'b6\'c0\'cc\'b6\'f3\'b0\'ed \'b8\'bb\'c7\'d4\
-\
-\'c0\'a5\'c1\'d6\'bc\'d2 (\'bb\'e7\'b6\'f7\'b5\'e9\'c0\'cc \'c0\'cc\'c7\'d8\'c7\'cf\'b4\'c2 \'c1\'d6\'bc\'d2)\
-\
-\'be\'c6\'c0\'cc\'c7\'c7- \'b3\'ed\'b8\'ae\'c0\'fb \'c1\'d6\'bc\'d2 (\'c4\'c4\'c7\'bb\'c5\'cd\'b0\'a1 \'c0\'cc\'c7\'d8\'c7\'cf\'b4\'c2 \'c1\'d6\'bc\'d2)\
-\
-\'b7\'a3\'c4\'ae - \'b9\'b0\'b8\'ae\'c0\'fb \'c1\'d6\'bc\'d2\
-\
-\'c1\'d6\'bc\'d2\'c3\'a2\'bf\'a1 \'b1\'b8\'b1\'db \'b4\'e5\'c4\'c4\'c0\'bb \'c4\'a1\'b4\'c2 \'bc\'f8\'b0\'a3\uc0\u160 **\'be\'c6\'c0\'cc\'c7\'c7 \'c1\'d6\'bc\'d2\'b7\'ce \'b9\'d9\'b2\'ee\'b0\'ed (DNS)**\
-\
-\'be\'c6\'c0\'cc\'c7\'c7\'b6\'f3\'b4\'c2 \'b1\'d4\'c4\'a2\'bf\'a1 \'b5\'fb\'b6\'f3 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c6\'d0\'c5\'b6 \'c7\'fc\'c5\'c2\'b7\'ce \'b3\'aa\'b4\'ae\
-\
-\'c6\'d0\'c5\'b6(\'b3\'aa\'b4\'b2\'c1\'f8 \'c1\'a4\'ba\'b8)\'c0\'ba \'c7\'d8\'b4\'e7\'c7\'cf\'b4\'c2 \'b3\'d7\'c6\'ae\'bf\'f6\'c5\'a9\'b7\'ce \'b0\'a1\'b0\'d4 \'b5\'c7\'b0\'ed\
-\
-\'b3\'d7\'c6\'ae\'bf\'f6\'c5\'a9\'bf\'a1 \'b0\'a1\'b0\'d4 \'b5\'c7\'b8\'e9 \'ba\'ea\'b7\'ce\'c0\'b1\'c4\'b3\'bd\'bd\'c0\'bb \'c5\'eb\'c7\'d8\'bc\'ad \'b9\'b0\'b8\'ae\'c0\'fb \'c1\'d6\'bc\'d2\'b8\'a6 \'b7\'a3\'c4\'ae\'bf\'a1 \'b0\'a1 \'c0\'d6\'b4\'c2 \'b0\'f7\'bf\'a1 \'c1\'a2\'b1\'d9\'bf\'a1\'bc\'ad \'bf\'f8\'c7\'cf\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'b4\'d9\'bd\'c3 \'b0\'a1\'c1\'ae\'bf\'c0\'b4\'c2 \'b0\'fa\'c1\'a4\'c0\'bb \'b0\'de\'b0\'d4 \'b5\'ca\
-\
-TCP_ \'b0\'cb\'c7\'bb\'c5\'cd\'c0\'c7 \'b1\'d4\'c4\'a2(\'b7\'ea)\
-\
-HTML\'c0\'ba http. \'c3\'b3\'b7\'b3 \'c1\'d6\'bc\'d2\'b7\'ce \'c0\'cc\'be\'ee\'c1\'fc\
-\
-\'bf\'d6\'b3\'c4\'b8\'e9 HTNL\'c0\'cc \'c5\'d8\'bd\'ba\'c6\'ae \'c7\'fc\'c5\'c2\'b4\'cf\'b1\'ee!\
-\
-\'b1\'d7\'b8\'ae\'b0\'ed \'b3\'aa\'b8\'d3\'c1\'f6 SSD\'b6\'fb \'c0\'da\'b9\'d9\'bd\'ba\'c5\'a9\'b8\'b3\'c6\'ae\'b4\'c2 \'b4\'d9\'b8\'a3\'b0\'d4 \'b5\'ca\
-\
-\'c0\'cc\'b7\'b8\'b0\'d4 \'c5\'d8\'bd\'ba\'c6\'ae \'c1\'d6\'bc\'d2\'b7\'ce \'c0\'cc\'be\'ee\'c1\'f6\'b0\'ed \'be\'c8 \'c0\'cc\'be\'ee\'c1\'f6\'b0\'ed\'b0\'a1 TCP\'c0\'c7 \'b1\'d4\'c4\'a2\'bf\'a1 \'c0\'c7\'c7\'d8 \'b0\'e1\'c1\'a4\'b5\'ca\
-\
-\'c0\'cc\'b0\'d4 \'b1\'d4\'c4\'a2\'c0\'d3!\
-\
-A\'bf\'a1\'bc\'ad B\'b7\'ce \'c6\'d0\'c5\'b6\'c0\'cc \'c0\'fc\'b4\'de\'b5\'c7\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad \'b0\'c5\'c3\'b3\'be\'df \'c7\'cf\'b4\'c2 \'b0\'fa\'c1\'a4\
-\
-TCP\'b8\'a6 \'c5\'eb\'c7\'d8\'bc\'ad B\'bf\'a1 \'c0\'fc\'b4\'de\
-\
-HTTP\'b8\'a6 \'c5\'eb\'c7\'d8\'bc\'ad B\'bf\'a1 \'c0\'fc\'b4\'de\
-\
-IP: \'c6\'d0\'c5\'b6\'b5\'e9\'c0\'cc \'c3\'a3\'be\'c6\'bf\'c0\'b1\'e2 \'c0\'a7\'c7\'d1 \'c1\'d6\'bc\'d2\
-\
-Port: \'bc\'f6 \'b8\'b9\'c0\'ba \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'b5\'e9\'c0\'cc \'c0\'da\'bd\'c5\'b8\'b8\'c0\'c7 \'c6\'f7\'c6\'ae\'b8\'a6 \'b0\'a1\'c1\'f6\'b0\'ed \'c0\'d6\'c0\'bd/ \'be\'c6\'c0\'cc\'c7\'c7\'b8\'a6 \'b1\'e2\'b4\'d9\'b8\'b2\
-\
-\'be\'ee\'b4\'c0 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'bf\'a1 \'c0\'fc\'b4\'de\'c7\'d8\'be\'df \'c7\'cf\'b4\'c2\'c1\'f6 \'b1\'b8\'ba\'d0\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'cc \'c6\'f7\'c6\'ae}
+- git은 파일에서 발생한 변경사항을 추적하는 시스템
+- 데스크탑에 저장하거나 클라우드에 저장하거나
+- 팀원간의 공유 및 공동 작업에 용이
+
+Repositories
+
+: 저장 폴더
+
+Commits
+
+: 파일 변경을 기록
+
+예전 작업으로 돌아가고 싶을 때 큰 역할을 함
+
+Branches
+
+: 나무의 가지
+
+실험적인 작업을 하고 싶을 때 사용
+
+Git과 Github
+
+: Git은 변경 사항 추적 시스템
+
+: Github는 변경 사항을 저장할 수 있는 클라우드 서비스
+
+- biitbucket
+
+변경과 추가를 git에서 다 하고 그것을 클라우드에 추가하는 역할이 github
+
+## **인터넷**
+
+인터넷은 1960년도에 핵 전쟁에 대한 공포가 크게 달한시기에 만들어졌다.
+
+당시 미국은 펜타곤을 잃으면 통신 시스템을 모두 잃게 됨
+
+- > 펜타곤을 핵으로 공격하면 우리 망해 (통신 마비)
+- > 분산
+
+웸 서버: index.html 파일을 인터넷을 통해 웹서버에 전달
+
+웹 브라우저: 파일을 해석해 사람이 볼 수 있는 문서의 형태로 보여줌
+
+world wide web
+
+: www.
+
+인터넷은 어떻게 동작할까?
+
+Ip Address
+
+한 쪽에서 다른 쪽으로 데이터를 전달하기 위해서 사용
+
+아이피라는 규칙에 따라서 받는 사람과 보내는 사람의 주소를 적고
+
+그리고 우리가 요청하는 정보에 대한 내용들을 작성
+
+나뉘게 된 단위를 패킷이라고 말함
+
+웹주소 (사람들이 이해하는 주소)
+
+아이피- 논리적 주소 (컴퓨터가 이해하는 주소)
+
+랜칼 - 물리적 주소
+
+주소창에 구글 닷컴을 치는 순간 **아이피 주소로 바뀌고 (DNS)**
+
+아이피라는 규칙에 따라 데이터를 패킷 형태로 나눔
+
+패킷(나눠진 정보)은 해당하는 네트워크로 가게 되고
+
+네트워크에 가게 되면 브로윤캐슬을 통해서 물리적 주소를 랜칼에 가 있는 곳에 접근에서 원하는 데이터를 다시 가져오는 과정을 겪게 됨
+
+TCP_ 검퓨터의 규칙(룰)
+
+HTML은 http. 처럼 주소로 이어짐
+
+왜냐면 HTNL이 텍스트 형태니까!
+
+그리고 나머지 SSD랑 자바스크립트는 다르게 됨
+
+이렇게 텍스트 주소로 이어지고 안 이어지고가 TCP의 규칙에 의해 결정됨
+
+이게 규칙임!
+
+A에서 B로 패킷이 전달되기 위해서 거처야 하는 과정
+
+TCP를 통해서 B에 전달
+
+HTTP를 통해서 B에 전달
+
+IP: 패킷들이 찾아오기 위한 주소
+
+Port: 수 많은 프로그램들이 자신만의 포트를 가지고 있음/ 아이피를 기다림
+
+어느 프로그램에 전달해야 하는지 구분하기 위해서 사용하는 것이 포트
