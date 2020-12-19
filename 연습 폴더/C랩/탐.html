@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    var p = 0;
+    var h= 0;
+    var speed = 0;
+
+    function clickcolor () {
+        if (document.getElementById('box').style.background == 'red') {
+            document.getElementById('box').style.background = 'green';
+        }
+        else {
+            document.getElementById('box').style.background = 'red';
+        }
+    }
+
+    document.getElementById('btn-color').addEventListener('click' , function () {
+        if (document.getElementById('box').style.background == 'red') {
+            document.getElementById('box').style.background = 'green';
+    }
+</script>
+<body>
+    
+</body>
+</html>

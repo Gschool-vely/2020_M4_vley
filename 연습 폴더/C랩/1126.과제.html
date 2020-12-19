@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<style>
+	#box {
+		width: 200px;
+		height: 200px;
+		background-color: skyblue;
+		border: 10px solid pink;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		position: absolute;
+		top: 50px;
+	}
+</style>
+<button id="btn-left">LEFT</button>
+<button id="btn-right">RIGHT</button>
+<button id="btn-up">UP</button>
+<button id="btn-down">DOWN</button>
+<div id="box">
+	<p>🐶 퍼기짱 🐶</p>
+</div>
+<script>
+	var leftposition = 0
+	document.getElementById('btn-left').addEventListener('click', function () {
+		leftposition = leftposition + 50
+		document.getElementById('box').style.left = leftposition + "px"
+
+	});
+	document.getElementById('btn-right').addEventListener('click', function () {
+		leftposition = leftposition - 50
+		document.getElementById('box').style.left = leftposition + "px"
+	})
+	var topposition = 0
+	document.getElementById('btn-up').addEventListener('click', function () {
+		topposition = topposition - 50
+		document.getElementById('box').style.left = position + "px"
+	})
+
+	document.getElementById('btn-down').addEventListener('click', function () {
+		topposition = topposition + 50
+		document.getElementById('box').style.left = position + "px"
+	})
+
+</script>
+
+<body>
+
+</body>
+
+</html>

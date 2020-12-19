@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button type="button" id="btn-green">초록</button>
+<button type="button" id="btn-yellow">노랑</button>
+<button type="button" id="btn-red">빨강</button>
+
+<div id="traffic-lights">
+	<span id="green"></span>
+	<span id="yellow"></span>
+    <span id="red"></span>
+
+<script>
+    document.getElementById('btn-green').addEventListener('click',function() {
+        document.getElementById('green').style = 'background;'
+        document.getElementById('btn-red').addEventListener('click',function() {
+        
+    }})
+</script>
+    <style>
+        button {
+	width:100px;
+	height:50px;
+	font-size:30px;
+}
+#traffic-lights {
+	background:#000;
+	width:500px;
+	height:100px;
+	padding:40px;
+	text-align:center;
+	margin-top:30px;
+}
+#traffic-lights span {
+	display:inline-block;
+	width:100px;
+	height:100px;
+	border-radius:100%;
+	margin:0 20px;
+}
+#green {
+	background:gray;
+}
+#yellow {
+	background:gray;
+}
+#red {
+	background:gray;
+</style>
+}
+</div>
+    
+</body>
+</html>
